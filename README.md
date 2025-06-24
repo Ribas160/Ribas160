@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Mikhail Romanov. I'm passionate about open-soruce, web development and various other stuff.
+My name is Mikhail Romanov. I'm passionate about open-soruce, web development, cloud architecture and various other stuff.
 
 [![GitHub followers](https://img.shields.io/github/followers/Ribas160?label=Follow&style=social)](https://github.com/Ribas160?tab=followers)
 
@@ -26,9 +26,9 @@ My name is Mikhail Romanov. I'm passionate about open-soruce, web development an
 
 #### 💻 Open Source
 
-- **PrivateBin** [contributor](https://github.com/search?q=org%3APrivateBin+author%3ARibas160&type=pullrequests)
+- **PrivateBin** [maintainer](https://github.com/search?q=org%3APrivateBin+author%3ARibas160&type=pullrequests)
 - **Crowdin** Open-Source projects [contributor](https://github.com/search?q=org%3Acrowdin++author%3ARibas160&type=pullrequests)
 
 #### 📊 GitHub Stats
 
-[![Mikhail's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ribas160&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_answered&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Mikhail's github stats](https://github-readme-stats.vercel.app/api/?username=Ribas160&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_answered&rank_icon=github)](https://github.com/Ribas160)
