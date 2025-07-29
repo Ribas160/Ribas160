@@ -21,12 +21,11 @@ My name is Mikhail Romanov. I'm passionate about open-soruce, web development, c
 ![Docker](https://img.shields.io/badge/-Docker-white?logo=docker&cacheSeconds=10000)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-430098?logo=grafana&cacheSeconds=10000)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 
 #### 💻 Open Source
 
-- **PrivateBin** [maintainer](https://github.com/search?q=org%3APrivateBin+author%3ARibas160&type=pullrequests)
+- [PrivateBin](https://github.com/PrivateBin) **maintainer**
 - **Crowdin** Open-Source projects [contributor](https://github.com/search?q=org%3Acrowdin++author%3ARibas160&type=pullrequests)
 
 #### 📊 GitHub Stats
