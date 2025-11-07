@@ -1,3 +1,5 @@
+[![An image of @ribas160's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ribas160)](https://holopin.io/@ribas160)
+
 ## Hi there 👋
 
 My name is Mikhail Romanov. I'm passionate about open-soruce, web development, cloud architecture and various other stuff.
